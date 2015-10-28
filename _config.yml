@@ -6,15 +6,15 @@ relative_permalinks: true
 
 # Setup
 title:               Compilers and History
-tagline:             'Nickik\'s Blog'
-description:         ''
+tagline:             'Nickiks Blog'
+description:         '-'
 url:                 http://lanyon.getpoole.com
 baseurl:             ''
 paginate:            5
 
 # About/contact
 author:
-  name:              Niklaus Zbinden
+  name:              'Niklaus Zbinden'
   url:               nickik.github.io
   email:             niklaus.zbinden@gmail.com
 

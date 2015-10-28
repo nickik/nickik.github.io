@@ -16,6 +16,8 @@ paginate:            5
 author:
   name:              'Niklaus Zbinden'
   url:               nickik.github.io
+  github:            https://github.com/nickik
+  twitter:           https://twitter.com/nickikt
   email:             niklaus.zbinden@gmail.com
 
 # Custom vars

@@ -8,7 +8,7 @@ relative_permalinks: true
 title:               Compilers and History
 tagline:             'Nickiks Blog'
 description:         '-'
-url:                 http://lanyon.getpoole.com
+url:                 https://nickik.github.io
 baseurl:             ''
 paginate:            5
 

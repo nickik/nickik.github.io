@@ -6,7 +6,7 @@ relative_permalinks: true
 
 # Setup
 title:               Compilers and History
-tagline:             'Nickik's Blog'
+tagline:             'Nickik\'s Blog'
 description:         ''
 url:                 http://lanyon.getpoole.com
 baseurl:             ''

@@ -1,122 +1,87 @@
 ---
 layout: post
-title: Example content
+title: How and Why Britain failed on a Strategic Level - 1940-1491 
 ---
 
+I have found that even among WW2 fans, many people don't know a lot about the time between the Fall of France and Pearl Harbor. I think that this is a extremely interesting and strategically vital time for the war. I will show what happened and then end with some point on what the problem was.
 
-<div class="message">
-  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
-</div>
+Lets first give a quick overview of the situation after the Fall of France. Italy has joined the war and is getting very active. Britain has to defend the sky and water around Britain against German planes and invasion plans. At the same time a huge force of Italians threatens multiple of their colonies. The Italians invaded Egypt , Somaliland and were threading others. The Italians also had a large and modern Navy in the Med and a Red Sea Flotilla. The Number were very clearly on the Italian side.
 
-Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+Churchill and others did not want to see Egypt fall to Italy and they took away forces and tanks form home defense to have a viable force for middle eastern command. General Wavell formulated a plan to mount a large scale raid against these Italian forces. Without going into to much detail the raid was such a success that the General on the ground quickly turned the raid into a full offensive. In what can only be described as 'Blitzkrieg' the British forces freed Egypt and conquered Cyrenaica (2 Months, 959.83 km or 596.41 mi or Coastline). However at this point (9 February 1941) in time the attack was halted, all forces were pulled back and redeployed, mostly to Greece.
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+Now lets examine this decisions. 
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+**Situation on the Ground:**
 
-## Inline HTML elements
+First lets see if this would have been a viable alternative for the Brits. After a lot of study, I would say that continuing Operation Compass would have been possible. 
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+- The Italians had not shown much resistance and their moral had fallen further and further.
 
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Mark otto</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+- Troupe Moral was extremely high
 
-Most of these elements are styled by browsers with few modifications on our part.
+- Lots of equipment had been captured, vehicles, petrol, guns and so on
 
-## Heading
+- The Navy was capable of supply, and maybe even leapfrogging ("I don't know the reason. I know it was not due to any navel shortcomings." - Admiral Cunningham)
 
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+- Africa Corps had barley started to arrive
 
-### Code
+- General O'Conner who was commander at the Front was confident
 
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
+There are both studies from that time, and since. Most agree that this could and should have been done.
 
-{% highlight js %}
-// Example can be run directly in your JavaScript console
+**Strategy**
 
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
+From a high level strategic point of view (with knowledge of hindsight) we know that every effort should have been made to secure North Africa. North Africa was one of the major strategic objective in CIGS Alan Brooke plans, he and Churchill convinced FDR to overrule Marshall pull the Americans into the Mediterranean Theater. Any chance to gain such a objective with very limited troupes in early 1941 would have been a huge victory. 
 
-// Call the function
-adder(2, 6);
-// > 8
-{% endhighlight %}
+Advantages of winning North Africa:
 
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
+- Truly secure flank for Middle East
+- North African Ports are a great  help with opening the Med for shipping (about 1'000'000 tons saved per month)
+- North African cost helps Air Force to Bomb Italy
+- Starting point for invasion of Italy
+- Positive effect on French North Africa (and French Syria)
+- Positive effect on Middle Eastern Countries
+- Positive effect on Spain
+- Forces Axis to defend long coastlines
 
-### Lists
+The advantage seems overwhelming, however Alan Brooke was not yet CIGS and these strategic plans were not really officially adopted yet.
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+The question then is what was the strategy at the time? This is a hard question to answer. Churchill was not one for such long term military thinking, long term he thought about politics (alliance with the US). General John Dill had not formulated and strategic plan so far as I know. The earlier plans had involved France.
 
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
+Churchill and it seems everybody in London was focus on 'the Balkan Front'. The hope was to unify Balkan countries and Turkey with a backbone of British troupes. Their they could fight Germany in a favorable front. While this plan seems nice it has multiple problems.
 
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
+- Very few forces available, ongoing North and East Africa Campaign needs to be slowed or stopped 
+- Balkan countries are not known for working together
+- Greece was already fighting and in a bad position
+- Bringing Turkey into a the war was a hope, and not very likely
+- Luftwaffe could make supply lines into Greece very costly
+- Germany was dominate on land
+- Retreat is extremely difficult, danger of another Dunkirk
 
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
+It is unclear how this Balkan front would lead to victory. Starting an Offensive towards Germany from their is hardly a good option. The Germans had little strategic objectives in the Balkans and could simply go on the defensive. Helping Greece would be value but from a military point of view, as well as form a political point of view (US relation).
 
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
+**Verdict**
 
-<dl>
-  <dt>HyperText Markup Language (HTML)</dt>
-  <dd>The language used to describe and define the content of a Web page</dd>
+I belief that a lack of overall strategy to win was missing. Instead of a clear plan for winning, they thought in terms of surviving and then using favorable situations to their advantage. This leads to the problem that you follow many 'good to have' objectives, but end up not achieving most of them.
 
-  <dt>Cascading Style Sheets (CSS)</dt>
-  <dd>Used to describe the appearance of Web content</dd>
+- Lightly defended (essentially undefended) North Africa overrun
+- Half baked Greek Campaign on the way home as soon as they had taken up position
+- Crete exposed and far to easily lost
+- Instead of reassuring Turkey, showing them your failure
+- Clear signal to Middle Eastern countries and colonies that you can not stand up to German Forces
+- Huge amount of equipment lost (again)
+- Defense of Middle East takes away from Far East resources
+- East Africa Campaign slowed down (Red Sea not open for American Shipping)
 
-  <dt>JavaScript (JS)</dt>
-  <dd>The programming language used to build advanced Web sites and applications</dd>
-</dl>
 
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
+**Final Words**
 
-### Tables
+All their objectives were valuable, with proper prioritization most of them could have been achieved. World war 2 would have played completely differently. It is often forgotten that opening up the Mediterranean gave the allies about 1'000'000 tons of shipping a month. Achieving this 2 years earlier would of had a gigantic impact. Their is more to say on the impact, but that starts to be to speculative. 
 
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sources:
 
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
+- Wavell in the Middle East, 1939-1941 A study in Generalship
 
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
+- A Path to Victory
 
------
-
-Want to see something else added? <a href="https://github.com/poole/poole/issues/new">Open an issue.</a>
+- Alan Brooke War Diaries
